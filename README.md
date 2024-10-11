@@ -1,5 +1,5 @@
 # Zero Fluff Data-Driven Decision-Making in Real-Life Business
-***
+
 ## Description:
 This project serves to display a real-life business scenario where I use my skills to solve problems in plain simple English for non-technical stakeholders. I am intentionally stripping away all fanciness and fluff, and getting straight to the answer to the question in the scenario.
 
