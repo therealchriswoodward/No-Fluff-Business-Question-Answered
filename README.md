@@ -7,3 +7,10 @@ _This is not to show off coding and technical skills; this is to show off questi
 
 ## Real-Life Business Scenario:
 A company decides to run an advertisement over the course of a month. They come to me and ask me to find out if it made a difference in their sales.
+
+## What You Will See In My Notebook
+* ***Clear Communication:*** A straight to the point method for answering the question in a plain English way so stakeholders can understand without time being wasted on a flashy dashboard.
+
+* ***Appendix Section for Visuals:*** Not everything is relevant to the question, so these bits of information are separate but available if needed.
+
+* ***Detailed Explanation of My Methods:*** Explanations detailed, but still in easy-to-understand language.
